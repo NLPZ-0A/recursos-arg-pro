@@ -1,0 +1,24 @@
+{
+    "vehiculos": [
+      {
+        "marca": "Ferrari",
+        "velocidad": 300,
+        "modelo": "sp-500"
+      },
+      {
+        "marca": "Ferrari",
+        "velocidad": 200,
+        "modelo": "sp-600"
+      },
+      {
+        "marca": "Ferrari",
+        "velocidad": 30,
+        "modelo": "superveloz 1944"
+      },
+      {
+        "marca": "mercedez",
+        "velocidad": 250,
+        "modelo": "sp-800"
+      }
+    ]
+  }
